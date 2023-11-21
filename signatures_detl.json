@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "Ron-J1",
+      "id": 17437787,
+      "comment_id": 1820854479,
+      "created_at": "2023-11-21T12:42:49Z",
+      "repoId": 708703433,
+      "pullRequestNo": 6
+    }
+  ]
 }
